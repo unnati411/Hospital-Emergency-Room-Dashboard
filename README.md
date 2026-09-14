@@ -57,6 +57,21 @@ The dashboard helps identify:
 - Departments receiving the highest number of referrals.
 - Relationship between operational performance and patient satisfaction.
 ---
+## 📂 Project Structure
+
+```text
+hospital-emergency-room-dashboard/
+│
+├── README.md
+├── Dashboard/
+│   └── Hospital_ER_Dashboard.xlsx
+├── Dataset/
+│   └── hospital_er_data.xlsx
+├── Screenshots/
+│   └── Hospital_ER_Dashboard.png
+└── Reports/
+    └── Hospital_ER_Dashboard_Report.pdf
+---
 ## 👩‍💻 Author
 Unnati Lohakare
 │   └── Hospital_ER_Dashboard.png
