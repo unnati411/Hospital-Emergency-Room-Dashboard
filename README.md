@@ -59,6 +59,3 @@ The dashboard helps identify:
 ---
 ## 👩‍💻 Author
 Unnati Lohakare
-│   └── Hospital_ER_Dashboard.png
-└── Reports/
-    └── Hospital_ER_Dashboard_Report.pdf
