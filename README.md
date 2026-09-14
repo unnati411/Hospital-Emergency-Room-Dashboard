@@ -59,7 +59,7 @@ The dashboard helps identify:
 ---
 ## 🖼️ Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Screenshots/Hospital_ER_Dashboard.png)
+![Hospital Emergency Room Dashboard](Hospital_ER_Dashboard.png)
 ---
 ## 👩‍💻 Author
 Unnati Lohakare
