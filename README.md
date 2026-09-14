@@ -3,6 +3,7 @@
 The Hospital Emergency Room Dashboard is an interactive Excel dashboard created to analyze hospital emergency room patient data.
 The dashboard provides a monthly view of patient volume, waiting time, satisfaction score, admission status, patient attendance, gender distribution, age groups, and department referrals.
 The goal of this project is to transform raw healthcare data into meaningful insights that can support better operational decision-making.
+
 ---
 ## 🎯 Project Objectives
 - Analyze the number of patients visiting the emergency room.
